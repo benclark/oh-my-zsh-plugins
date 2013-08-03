@@ -1,0 +1,3 @@
+[submodule "parallels"]
+	path = parallels
+	url = git@github.com:benclark/parallels-zsh-plugin.git
